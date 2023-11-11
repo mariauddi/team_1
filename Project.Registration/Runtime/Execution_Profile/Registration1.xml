@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="regression">
+<listeners>
+	
+<listener class-name="ListenerPack.Ilisteners"></listener>	
+	
+</listeners>
+<parameter name="browser" value="chrome"></parameter>
+<parameter name="website" value="https://tutorialsninja.com/demo/index.php?route=account/register"></parameter>
+
+	
+	
+<test name="Registration">
+<classes>
+<class name="Project_Registration_1_Maria.Verify_Field"></class>	
+	
+	
+	
+	
+	
+	
+	
+</classes>		
+</test>		
+</suite>
