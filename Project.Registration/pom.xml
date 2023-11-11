@@ -76,21 +76,9 @@
 
 
 
-  	<dependency>
-  		<groupId>com.train.org</groupId>
-  		<artifactId>ELA_DDT</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>com.naveenautomationlabs.excel.reader</groupId>
-  		<artifactId>xls_reader</artifactId>
-  		<version>1.0</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>com.train.org</groupId>
-  		<artifactId>AmazonTestNGframework</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  
+  	
+  	
   </dependencies>
 
   <build>
